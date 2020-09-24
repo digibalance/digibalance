@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to the official GitHub of Digital Balance
+
+Visit our website here: https://mydigitalbalance.com
+
 <!--
 **digital-balance/digital-balance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
